@@ -1,1 +1,1 @@
-Kutyasétáltató napló
+# Kutyasétáltató napló
